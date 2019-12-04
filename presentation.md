@@ -133,27 +133,37 @@ Anybody know how processes are scheduled in a typical linux based system ?
 --------------------------------------------------
 -> # Linux CFS <-
 
+* on a single cpu system cfs is very simple
+* on a multi core system it gets quite complex fast ^^
+
+soooo what is CFS :D?
+CFS == completly fair scheduler (a little bit high and mighty but who am i to judge ^^)
+
+lets stay for a moment on a single cpu system, just one core, can you picture how that might work ?
+and just as a hint we are talking about a preemtive scheduler :D
+
 
 
 --------------------------------------------------
--> #  <-
+-> # Linux CFS details <-
+
+* timeslice
+* priority
+* vruntime
+* runqueue
+* per-core runqueue
+* load balancing
+* scheduler classes
 
 --------------------------------------------------
--> #  <-
+-> # CPU sampling <-
 
-NOTES:
-https://medium.com/hungys-blog/linux-kernel-process-scheduling-8ce05939fabd
-https://www.infradead.org/~mchehab/kernel_docs/unsorted/cachetlb.html
-https://www.kernel.org/doc/html/latest/admin-guide/mm/numaperf.html
-https://www.kernel.org/doc/html/latest/admin-guide/mm/concepts.html
-https://blogs.igalia.com/dpino/2015/10/15/multicore-architectures-and-cpu-affinity/
-https://www.glennklockwood.com/hpc-howtos/process-affinity.html
-https://whatis.techtarget.com/definition/register
-http://www.sciencehq.com/computing-technology/cpu-registers.html
-https://www.makeuseof.com/tag/cpu-technology-explained/
-https://www.makeuseof.com/tag/what-is-cpu-cache/
-https://www.recurse.com/blog/7-understanding-c-by-learning-assembly
-https://www.quora.com/What-is-an-intuitive-explanation-of-how-CPU-registers-work
-https://whatis.techtarget.com/definition/register
-https://www.quora.com/What-are-the-three-main-components-of-a-CPU
+enter again EBPF :D and also the linux perf tools ;)
 
+on-cpu sampling
+
+easily done with EBPF and also with perf tools
+
+off-cpu sampling
+
+only really doable with EBPF
