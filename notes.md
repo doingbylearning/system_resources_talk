@@ -38,3 +38,5 @@ only really doable with EBPF
 
 
 https://github.com/iovisor/bcc/blob/master/INSTALL.md#arch---aur
+
+/usr/share/bcc/tools/runqslower
