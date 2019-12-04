@@ -1,0 +1,124 @@
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 3
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 3
+Chrome_~dThread;[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 5
+Web Content;[unknown];[unknown];[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 7
+Web Content;[unknown];-;swapgs_restore_regs_and_return_to_usermode;prepare_exit_to_usermode;exit_to_usermode_loop;schedule;__sched_text_start;finish_task_switch 8
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 12
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 14
+Chrome_~dThread;[unknown];[unknown];-;swapgs_restore_regs_and_return_to_usermode;prepare_exit_to_usermode;exit_to_usermode_loop;schedule;__sched_text_start;finish_task_switch 16
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 17
+Web Content;[unknown];-;swapgs_restore_regs_and_return_to_usermode;prepare_exit_to_usermode;exit_to_usermode_loop;schedule;__sched_text_start;finish_task_switch 18
+Timer;[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;ksys_write;vfs_write;new_sync_write;pipe_write;__wake_up_common_lock;_raw_spin_unlock_irqrestore;___preempt_schedule;preempt_schedule_common;__sched_text_start;finish_task_switch 19
+Web Content;[unknown];-;swapgs_restore_regs_and_return_to_usermode;prepare_exit_to_usermode;exit_to_usermode_loop;schedule;__sched_text_start;finish_task_switch 19
+Web Content;[unknown];[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 22
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 24
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 27
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 27
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 35
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 41
+Web Content;[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;ksys_write;vfs_write;new_sync_write;pipe_write;__wake_up_common_lock;_raw_spin_unlock_irqrestore;___preempt_schedule;preempt_schedule_common;__sched_text_start;finish_task_switch 43
+Web Content;[unknown];[unknown];[unknown];-;swapgs_restore_regs_and_return_to_usermode;prepare_exit_to_usermode;exit_to_usermode_loop;schedule;__sched_text_start;finish_task_switch 44
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 48
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 49
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 52
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 53
+Web Content;[Missed User Stack];swapgs_restore_regs_and_return_to_usermode;prepare_exit_to_usermode;exit_to_usermode_loop;schedule;__sched_text_start;finish_task_switch 53
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 53
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 91
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 100
+Web Content;[unknown];-;swapgs_restore_regs_and_return_to_usermode;prepare_exit_to_usermode;exit_to_usermode_loop;schedule;__sched_text_start;finish_task_switch 102
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 106
+Web Content;[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__sys_recvmsg;___sys_recvmsg;copy_msghdr_from_user;import_iovec;rw_copy_check_uvector;__check_object_size;check_stack_object;restore_regs_and_return_to_kernel;preempt_schedule_irq;__sched_text_start;finish_task_switch 111
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 143
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 149
+Web Content;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_poll;do_sys_poll;eventfd_poll;restore_regs_and_return_to_kernel;preempt_schedule_irq;__sched_text_start;finish_task_switch 151
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 151
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 160
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 173
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 173
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 189
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 190
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 193
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 197
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 200
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 204
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 204
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 213
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 216
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 217
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 229
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 230
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 230
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 244
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 251
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 269
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 303
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 316
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 317
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 339
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 355
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 360
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 368
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 369
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 425
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 453
+Web Content;[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 457
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 471
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 473
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 482
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 482
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 499
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 525
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 553
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 557
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 560
+Web Content;[unknown];[unknown];[unknown];[unknown];-;swapgs_restore_regs_and_return_to_usermode;prepare_exit_to_usermode;exit_to_usermode_loop;schedule;__sched_text_start;finish_task_switch 602
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 850
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 857
+Timer;[Missed User Stack];entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 1668
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 2946
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 12271
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 13247
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 13580
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 15970
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 15990
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 16579
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 16760
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 16818
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 17053
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 67331
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 106477
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 155517
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 189363
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 463894
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 469565
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 530086
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 720440
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 893035
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 982759
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 997294
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999323
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999415
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999503
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999525
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999584
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999658
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999690
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999731
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999747
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999758
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999786
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999798
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999813
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999829
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999918
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999983
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 999994
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 1000289
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 1000313
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 1999340
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 1999425
+Timer;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 1999449
+Chrome_~dThread;[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__x64_sys_epoll_wait;do_epoll_wait;ep_poll;schedule_hrtimeout_range_clock;schedule;__sched_text_start;finish_task_switch 30003829
+JS Watchdog;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_futex;do_futex;futex_wait;futex_wait_queue_me;schedule;__sched_text_start;finish_task_switch 30004220
+Web Content;[unknown];[unknown];-;entry_SYSCALL_64_after_hwframe;do_syscall_64;__se_sys_poll;do_sys_poll;poll_schedule_timeout.constprop.0;schedule_hrtimeout_range_clock;schedule;__sched_text_start;finish_task_switch 30658095
